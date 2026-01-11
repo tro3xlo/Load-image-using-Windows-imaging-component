@@ -1,0 +1,1 @@
+# Load-image-using-Windows-imaging-component
